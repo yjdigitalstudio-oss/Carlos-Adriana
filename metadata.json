@@ -1,0 +1,6 @@
+{
+  "name": "Lista de Bodas",
+  "description": "Lista de regalos y aportaciones de boda de Carlos & Adriana. 19 de diciembre de 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

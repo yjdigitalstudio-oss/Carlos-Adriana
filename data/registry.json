@@ -1,0 +1,183 @@
+{
+  "settings": {
+    "coupleNames": "Carlos & Adriana",
+    "weddingDate": "2026-12-19",
+    "welcomeMessage": "Lo más importante para nosotros es contar con tu presencia en este día tan especial. Si deseas hacernos un obsequio para comenzar esta nueva etapa juntos, agradeceríamos enormemente tu contribución en efectivo o a través de nuestra lista de regalos.\n\nCon mucho cariño, Carlos & Adriana.",
+    "adminPin": "27674221",
+    "notificationEmail": "cumana.dvno@gmail.com",
+    "hidePurchasedByDefault": true,
+    "bankInfo": {
+      "bankName": "Banco Provincial",
+      "accountHolder": "Carlos Tovar & Adriana Sereno",
+      "accountNumber": "",
+      "accountType": "Pago Móvil / Transferencia",
+      "identifier": "Regalo Boda Carlos & Adriana",
+      "idNumber": "26.572.937",
+      "phone": "04145091010",
+      "binanceId": "1203957560",
+      "notes": "Pago Móvil Banco Provincial (C.I. 26.572.937, Tel: 04145091010) o Binance Pay (ID: 1203957560)"
+    }
+  },
+  "gifts": [
+    {
+      "id": "gift-1",
+      "name": "Juego de vajilla",
+      "description": "Para 6 puestos, color blanco.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-2",
+      "name": "Juego de ollas",
+      "description": "Negro, antiadherente.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-3",
+      "name": "Juego de cubiertos",
+      "description": "Para 6 puestos, 24 piezas, plateado.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-4",
+      "name": "Juego de vasos altos",
+      "description": "Vidrio, transparente y lisos, 6 piezas.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-5",
+      "name": "Juego de copas",
+      "description": "Vidrio, transparente y lisas, 6 piezas.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-6",
+      "name": "Juego de cuchillos",
+      "description": "De acero inoxidable con afilador y tijera de cocina.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-7",
+      "name": "Juego de tablas de picar",
+      "description": "Madera, 2 piezas.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-8",
+      "name": "Juego de refractarias",
+      "description": "3 piezas, rectangulares.",
+      "category": "Cocina & Mesa",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-9",
+      "name": "Licuadora",
+      "description": "Negra o plateada.",
+      "category": "Electrodomésticos",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-10",
+      "name": "Horno eléctrico",
+      "description": "Negro o plateado.",
+      "category": "Electrodomésticos",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-11",
+      "name": "Air fryer",
+      "description": "Negro o plateado.",
+      "category": "Electrodomésticos",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-12",
+      "name": "Set de toallas de algodón",
+      "description": "Pack de 6 piezas: 2 de baño, 2 de lavabo, 2 de tocador; color blanco.",
+      "category": "Baño",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-13",
+      "name": "Microondas",
+      "description": "Negro o plateado.",
+      "category": "Electrodomésticos",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-14",
+      "name": "Juego de sábanas",
+      "description": "Matrimonial, unicolor.",
+      "category": "Dormitorio",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-15",
+      "name": "Juego de edredones",
+      "description": "Matrimonial, unicolor.",
+      "category": "Dormitorio",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-16",
+      "name": "Juego de almohadas",
+      "description": "2 Queen size y 2 matrimonial.",
+      "category": "Dormitorio",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-17",
+      "name": "Set de baño",
+      "description": "Blanco, negro o beige.",
+      "category": "Baño",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-18",
+      "name": "Parrillera",
+      "description": "Negra o plateada.",
+      "category": "Parrilla & Exteriores",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-19",
+      "name": "Set de utensilios parrilleros",
+      "description": "Acero inoxidable y mango de madera.",
+      "category": "Parrilla & Exteriores",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    },
+    {
+      "id": "gift-20",
+      "name": "Batidora de mano",
+      "description": "Plateada o negra.",
+      "category": "Electrodomésticos",
+      "status": "available",
+      "createdAt": "2026-09-17T13:30:00.000Z"
+    }
+  ]
+}
